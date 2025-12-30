@@ -1,0 +1,101 @@
+subject,body,answer,type,queue,priority,language,business_type,tag_1,tag_2,tag_3,tag_4,tag_5,tag_6,tag_7,tag_8,tag_9
+Problema crítico del servidor requiere atención inmediata,Es necesaria una investigación inmediata sobre la interrupción en el servicio de gestión de AWS que está impactando funciones comerciales esenciales.,Estamos investigando urgentemente el problema con el servicio de gestión de AWS. Proporcionaremos actualizaciones sobre nuestro progreso.,Incident,Technical Support,high,es,IT Services,Urgent Issue,Service Disruption,Incident Report,Service Recovery,System Maintenance,,,,
+Anfrage zur Verfügbarkeit des Dell XPS 13 9310,"Sehr geehrter Kundenservice,
+
+ich hoffe, diese E-Mail erreicht Sie wohl. Ich schreibe, um mich nach der Verfügbarkeit und den Lieferoptionen für das Dell XPS 13 9310 Ultrabook zu erkundigen. Könnten Sie mir bitte mitteilen, ob dieses Modell derzeit auf Lager ist und die geschätzte Lieferzeit zu meinem Standort? Ich bin sehr daran interessiert, es so schnell wie möglich zu kaufen.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>","Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns kontaktiert haben. Das Dell XPS 13 9310 Ultrabook ist derzeit verfügbar. Die geschätzte Lieferzeit variiert je nach Ihrem Standort, liegt jedoch normalerweise zwischen 3-5 Werktagen. Bitte geben Sie Ihren Standort an, um eine genauere Schätzung zu erhalten.
+
+Wir freuen uns darauf, Ihnen beim Kauf zu helfen.
+
+Mit freundlichen Grüßen,
+Kundenservice",Request,Customer Service,low,de,Tech Online Store,Sales Inquiry,Product Support,Customer Service,Order Issue,Returns and Exchanges,,,,
+Erro na Autocompletação de Código do IntelliJ IDEA,"Prezado Suporte ao Cliente <name>,
+
+Estou escrevendo para trazer à sua atenção um problema recorrente com o recurso de autocompletação de código no IntelliJ IDEA 2024.1. Este problema específico faz com que o aplicativo travar frequentemente durante o desenvolvimento, o que está prejudicando significativamente minha produtividade. Cada vez que tento usar o recurso de autocompletação de código, o software fica sem resposta, levando eventualmente a um travamento. Já tentei os passos comuns de solução de problemas, como reinstalação e aplicação das atualizações mais recentes, mas o problema persiste. Agradeceria sua orientação sobre como resolver esse problema o mais rápido possível. Obrigado pela sua atenção.
+
+Atenciosamente,
+<name>","Prezado <name>,
+
+Obrigado por entrar em contato e nos informar sobre o problema com o recurso de autocompletação de código no IntelliJ IDEA 2024.1. Entendemos o quão crucial essa ferramenta é para o seu trabalho de desenvolvimento.
+
+Para ajudá-lo melhor, por favor, tente os seguintes passos:
+1. Verifique a compatibilidade do seu sistema com o IntelliJ IDEA 2024.1.
+2. Limpe o cache da IDE acessando Arquivo > Invalidar Caches / Reiniciar.
+3. Desative quaisquer plugins desnecessários para ver se estão causando conflitos.
+4. Aumente a alocação de memória para o aplicativo por meio das opções de VM.
+
+Se o problema persistir, por favor, nos envie os logs (localizados em Ajuda > Coletar Logs) para uma análise mais profunda. Estamos comprometidos em resolver esse problema o mais rápido possível.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente",Incident,Technical Support,high,pt,IT Services,Technical Support,Software Bug,Problem Resolution,Urgent Issue,IT Support,,,,
+Urgent Assistance Required: AWS Service,"Dear IT Services Support Team, 
+
+I am reaching out regarding a high-priority ticket related to our AWS Management Service. We are experiencing significant challenges in deploying services and optimizing our cloud infrastructure costs. It is crucial for us to gain clarity and efficient solutions on this matter. 
+
+We have been noticing higher-than-expected expenditure, and the deployment process appears to have several hurdles that prevent smooth operation. As this is affecting our operational efficiency and financial planning, your expert assistance is urgently requested. 
+
+Could you please prioritize this ticket and guide us on the best practices to streamline deployment and manage costs effectively on AWS? Your prompt response will greatly aid in mitigating potential losses and optimizing current systems. 
+
+Thank you for your immediate attention and expertise.
+
+Best regards, 
+
+<name>
+<acc_num>
+<name@example.com>
+<tel_num>","Dear <name>,
+
+Thank you for reaching out regarding your AWS Management Service issues. I understand the urgency and the impact on your operational efficiency and financial planning. We will prioritize your ticket and escalate it to our AWS specialists who will contact you shortly. 
+
+In the meantime, please ensure your AWS account details are handy, as it will facilitate a more efficient troubleshooting process. They will assist you in optimizing your cloud infrastructure costs and streamlining your deployment process. 
+
+We are committed to providing a solution quickly to minimize any potential losses. Thank you for your patience and cooperation.
+
+Best regards,
+IT Services Support Team",Request,IT Support,high,en,IT Services,IT Support,Urgent Issue,Service Notification,Cloud Services,Problem Resolution,Technical Guidance,Performance Tuning,,
+Problème d'affichage de MacBook Air,"Cher équipe de support du magasin en ligne Tech, 
+
+Je vous écris pour attirer votre attention sur un problème que j'ai rencontré avec mon MacBook Air M1 récemment acheté. Bien que l'appareil ait initialement répondu à ma satisfaction, j'ai remarqué que l'écran scintille occasionnellement pendant l'utilisation. Ce léger problème se produit sporadiquement et est quelque peu distrayant, notamment lorsque je me concentre sur des tâches importantes. J'ai vérifié que mon système d'exploitation est à jour et je n'ai pas apporté d'altérations non autorisées à la configuration du système. Malgré mes tentatives de dépannage, telles que la réinitialisation des paramètres d'affichage et l'assurance que tous les logiciels sont à jour, le scintillement persiste. Étant donné la réputation de votre marque pour des dispositifs de haute qualité, j'ai confiance que c'est un problème avec lequel vous pouvez m'assister. J'apprécierais des conseils sur les éventuelles solutions ou s'il serait possible d'organiser une inspection ou un remplacement si nécessaire. Mon achat a été effectué au nom de <name> le <purchase_date>. Je peux fournir le numéro de série de l'appareil si nécessaire. Veuillez m'informer des prochaines étapes que je devrais suivre. Merci pour votre attention rapide à cette affaire. 
+
+Cordialement, 
+
+<name>","Cher <name>,
+
+Merci de nous avoir contactés concernant le problème avec l'affichage de votre MacBook Air M1. Nous sommes désolés d'apprendre le problème de scintillement et apprécions votre description détaillée.
+
+Pour vous aider davantage, veuillez suivre ces étapes :
+1. Assurez-vous que tout le logiciel système est à jour, comme vous l'avez déjà fait.
+2. Essayez d'ajuster les paramètres d'affichage ou de vérifier si une application spécifique déclenche le scintillement.
+
+Si le problème persiste, nous recommandons ce qui suit :
+- Fournissez-nous le numéro de série de l'appareil pour vérifier les options de garantie et de service.
+- Envisagez de prendre un rendez-vous avec notre centre de service autorisé pour une inspection.
+
+Veuillez garder votre preuve d'achat à portée de main, et nous serons là pour faciliter tout service ou remplacement nécessaire.
+
+Merci de votre confiance en notre marque. Nous nous engageons à résoudre cela rapidement pour vous.
+
+Cordialement,
+
+Équipe de support du magasin en ligne Tech",Incident,Product Support,low,fr,Tech Online Store,Technical Support,Product Support,Hardware Failure,Service Recovery,Routine Request,,,,
+Urgent: Issue with Zoom Screen Sharing Feature,"Dear Customer Support,
+
+I am experiencing a high-priority incident wherein screen sharing fails during critical business webinar sessions using Zoom version 5.11.0. This issue is disrupting our operations and needs immediate attention.
+
+Could you please address this matter as soon as possible or direct me to someone who can assist?
+
+Thank you for your urgent support.
+
+Best regards,
+
+<name>
+<acc_num>","Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the screen sharing issue with Zoom version 5.11.0 during your webinars. We recommend updating to the latest Zoom version, as many issues can be resolved with updates. If the problem persists after updating, please contact our technical team directly at <tel_num> for immediate assistance.
+
